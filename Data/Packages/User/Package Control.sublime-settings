@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Align Arguments",
+		"Alignment",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"FileHeader",
+		"GBK Support",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PHPSnippets",
+		"PHPUnit",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSidebarBg",
+		"Thinkphp"
+	]
+}

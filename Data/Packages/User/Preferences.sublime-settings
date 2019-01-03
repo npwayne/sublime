@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"dpi_scale": 1.0,
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Monokai.sublime-theme"
+}

@@ -1,0 +1,7 @@
+{
+	"cmd": ["C:/Python37/python3.exe","-u","$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.python",
+	"encoding": "utf-8" ,
+	"env": {"PYTHONIOENCODING": "utf8"}
+}
